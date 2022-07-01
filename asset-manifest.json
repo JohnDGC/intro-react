@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Josajumo/intro-react/static/css/main.0867ec24.css",
+    "main.js": "/Josajumo/intro-react/static/js/main.8a89987b.js",
+    "index.html": "/Josajumo/intro-react/index.html",
+    "main.0867ec24.css.map": "/Josajumo/intro-react/static/css/main.0867ec24.css.map",
+    "main.8a89987b.js.map": "/Josajumo/intro-react/static/js/main.8a89987b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0867ec24.css",
+    "static/js/main.8a89987b.js"
+  ]
+}
