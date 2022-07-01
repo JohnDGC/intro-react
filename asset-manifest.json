@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Josajumo/intro-react/static/css/main.0867ec24.css",
-    "main.js": "/Josajumo/intro-react/static/js/main.8a89987b.js",
-    "index.html": "/Josajumo/intro-react/index.html",
-    "main.0867ec24.css.map": "/Josajumo/intro-react/static/css/main.0867ec24.css.map",
-    "main.8a89987b.js.map": "/Josajumo/intro-react/static/js/main.8a89987b.js.map"
+    "main.css": "/intro-react/static/css/main.f6d75fd5.css",
+    "main.js": "/intro-react/static/js/main.04e0f76b.js",
+    "index.html": "/intro-react/index.html",
+    "main.f6d75fd5.css.map": "/intro-react/static/css/main.f6d75fd5.css.map",
+    "main.04e0f76b.js.map": "/intro-react/static/js/main.04e0f76b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0867ec24.css",
-    "static/js/main.8a89987b.js"
+    "static/css/main.f6d75fd5.css",
+    "static/js/main.04e0f76b.js"
   ]
 }
